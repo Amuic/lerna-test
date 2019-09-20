@@ -1,0 +1,9 @@
+{
+    "name": "straw",
+    "version": "0.0.1",
+    "main": "straw.js",
+    "license": "MIT",
+    "scripts": {
+        "test": "echo testing straw with version: $npm_package_version"
+    }
+}

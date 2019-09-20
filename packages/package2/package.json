@@ -1,0 +1,9 @@
+{
+    "name": "berry",
+    "version": "0.0.1",
+    "main": "berry.js",
+    "license": "MIT",
+    "scripts": {
+        "test": "echo testing berry with version: $npm_package_version"
+    }
+}
