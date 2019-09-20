@@ -1,6 +1,6 @@
 {
     "name": "straw",
-    "version": "0.1.0-alpha.0",
+    "version": "0.1.0",
     "main": "straw.js",
     "license": "MIT",
     "scripts": {
