@@ -5,5 +5,8 @@
     "license": "MIT",
     "scripts": {
         "test": "echo testing straw with version: $npm_package_version"
+    },
+    "dependencies": {
+        "module-1": "^0.0.0"
     }
 }
